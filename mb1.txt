@@ -1,0 +1,98 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Language" content="utf-8" />
+<title>$副标题1$</title>
+<link rel="stylesheet" href="/css/page.css" type="text/css" media="all" charset="utf-8"/>
+<script type="text/javascript" src="main.js" charset="utf-8"></script>
+<script type="text/javascript" src="share_qr.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="main_login.js" charset="utf-8"></script>
+<script type="text/javascript" src="weixindata.js" charset="utf-8"></script>
+<script type="text/javascript" src="webdig_test.js"></script>
+</head>
+<body>
+<div class="clearfix w1000_320 text_title">
+	<h1>$副标题1$</h1>
+  <div class="box01">
+    <div class="fl">$时间$ 来源：<a href="http://$域名$/" target="_blank">$站名$</a></div>
+  </div>
+</div>
+<div class="clearfix w1000_320 text_con">
+  <div class="fl text_con_left">
+    <div class="box_con" id="rwb_zw">
+<p align="center">
+<img src="/$图片$" alt="$标题$" width="640" height="480"/>
+</p>
+$内容1$
+
+    <div class="edit clearfix">责编：</div>
+    </div>
+    <div id="rwb_xgxw">
+      <div class="clearfix box_news">
+        <h2>相关新闻</h2>
+        <ul>
+<li><a href="$匹配地址1$" target="_blank">$副标题2$</a>$随机日期_1$</li>
+<li><a href="$匹配地址2$" target="_blank">$副标题3$</a>$随机日期1$</li>
+<li><a href="$匹配地址3$" target="_blank">$副标题4$</a>$随机日期_2$</li>
+<li><a href="$匹配地址4$" target="_blank">$副标题5$</a>$随机日期2$</li>
+<li><a href="$匹配地址5$" target="_blank">$副标题6$</a>$随机日期3$</li>
+<li><a href="$匹配地址6$" target="_blank">$副标题7$</a>$随机日期4$</li>
+<li><a href="$匹配地址7$" target="_blank">$副标题8$</a>$随机日期5$</li>
+<li><a href="$匹配地址8$" target="_blank">$副标题9$</a>$随机日期6$</li>
+      </ul>
+      </div>
+      </div>
+    </div>
+  <div class="fr text_con_right">
+    <div class="clearfix box_hot" id="rwb_rdtj" >
+      <h2>热点推荐</h2>
+      <ul>
+<li><a href='$匹配地址9$' target="_blank">$副标题10$</a>$随机日期_3$</li>
+<li><a href='$匹配地址10$' target="_blank">$副标题11$</a>$随机日期_4$</li>
+<li><a href='$匹配地址11$' target="_blank">$副标题12$</a>$随机日期7$</li>
+<li><a href='$匹配地址12$' target="_blank">$副标题13$</a>$随机日期8$</li>
+<li><a href='$匹配地址13$' target="_blank">$副标题14$</a>$随机日期9$</li>
+      </ul>
+    </div>
+    <div class="clearfix box_pic02" id="rwb_jctjr" >
+      <h2>热点关注</h2>
+      <ul class="clearfix">
+<li><a href="$匹配地址14$" target="_blank">$副标题15$</a>$随机日期10$</li>
+<li><a href="$匹配地址15$" target="_blank">$副标题16$</a>$随机日期11$</li>
+<li><a href="$匹配地址16$" target="_blank">$副标题17$</a>$随机日期12$</li>
+<li><a href="$匹配地址17$" target="_blank">$副标题18$</a>$随机日期13$</li>
+         </ul>
+      </div>
+      <div class="clearfix box_pic03" id="rwb_sptj">
+         <h2>新闻</h2>
+         <ul class="clearfix">
+<li><a href="$匹配地址18$" target="_blank">$副标题19$</a>$随机日期14$</li>
+<li><a href="$匹配地址19$" target="_blank">$副标题20$</a>$随机日期15$</li>
+<li><a href="$匹配地址20$" target="_blank">$副标题21$</a>$随机日期_5$</li>
+<li><a href="$匹配地址21$" target="_blank">$副标题22$</a>$随机日期_6$</li>
+          </ul>
+          <ol class="clearfix">
+<li><a href='$匹配地址22$' target="_blank">$副标题23$</a>$随机日期16$</li>
+<li><a href='$匹配地址23$' target="_blank">$副标题24$</a>$随机日期17$</li>
+<li><a href='$匹配地址24$' target="_blank">$副标题25$</a>$随机日期_7$</li>
+          </ol>
+      </div>
+      <div class="clearfix box_ol" id="rwb_rdph">
+         <h2>热点排行</h2>
+         <ol class="ph_list">
+<li><a href="$匹配地址25$" target="_blank">$副标题26$</a>$随机日期_8$</li>
+<li><a href="$匹配地址26$" target="_blank">$副标题27$</a>$随机日期18$</li>
+<li><a href="$匹配地址27$" target="_blank">$副标题28$</a>$随机日期19$</li>
+<li><a href="$匹配地址28$" target="_blank">$副标题29$</a>$随机日期_9$</li>
+<li><a href="$匹配地址29$" target="_blank">$副标题30$</a>$随机日期20$</li>
+<li><a href="$匹配地址30$" target="_blank">$副标题31$</a>$随机日期21$</li>
+         </ol>
+      </div>
+   </div>
+</div>
+<div class="copyright clearfix w1000_320">
+版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2017 by $域名$ all rights reserved
+</div>
+</body>
+</html>
+
